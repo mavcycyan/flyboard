@@ -443,3 +443,17 @@ header {
 	margin-top: -160px;
 }
 /*contacts*/
+
+@media(max-width: 991px){
+	.contacts-wrap {
+		padding: 30px 20px;
+	}
+
+	.quest-form-wrap {
+		padding: 40px 20px;
+	}
+
+	.h-menu {
+		justify-content: center;
+	}
+}
